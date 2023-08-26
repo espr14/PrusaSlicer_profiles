@@ -1,3 +1,4 @@
 PrusaSlicer.ini*
 PrusaSlicerGcodeViewer.ini*
 snapshots
+/cache/*
